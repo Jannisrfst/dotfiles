@@ -1,0 +1,1041 @@
+-- Keymaps are automatically loaded on the VeryLazy event
+-- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+-- Add any additional keymaps here
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  1   -- Keymaps are automatically loaded on the VeryLazy event
+  1   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  2   -- Add any additional keymaps here
+  3 ▎ --
+  4 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  5 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Top   1:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                        [48;44;172;1012;1892t                         i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  5   -- Keymaps are automatically loaded on the VeryLazy event
+  4   -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
+  3   -- Add any additional keymaps here
+  2 ▎ --
+  1 ▎ vim.keymap.set("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+  6 ▎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                                 i   3  Bot   6:1    08:00
+  -- ~/.config/nvim/lua/config/keymaps.lua
+  -- Custom keymaps for LazyVim
+
+local map = vim.keymap.set
+local opts = { noremap = true, silent = true }
+
+-- Exit insert mode with jk
+map("i", "jk", "<Esc>", { desc = "Exit insert mode with jk" })
+
+-- Save file
+map("n", "<leader>w", "<cmd>w<CR>", { desc = "Save file" })
+
+-- Quit window
+map("n", "<leader>q", "<cmd>q<CR>", { desc = "Quit window" })
+
+-- Clear search highlight
+map("n", "<leader>h", "<cmd>nohlsearch<CR>", { desc = "Clear search highlight" })
+
+-- Select all (like Ctrl+A in editors)
+map("n", "<leader>a", "ggVG", { desc = "Select all" })
+
+-- Copy to system clipboard in visual mode
+map("v", "<leader>y", '"+y', { desc = "Copy to system clipboard" })
+
+-- Move between splits with Ctrl + hjkl
+map("n", "<C-h>", "<C-w>h", { desc = "Move to left window" })
+map("n", "<C-l>", "<C-w>l", { desc = "Move to right window" })
+map("n", "<C-j>", "<C-w>j", { desc = "Move to lower window" })
+map("n", "<C-k>", "<C-w>k", { desc = "Move to upper window" })
+
+
+
+
+
+
+
+ INSERT   main  󱉭  nvim  󰢱  .config/…/config/keymaps.lua                                                                              i   3  Bot   6:1    08:00 
