@@ -1,0 +1,45 @@
+# MacOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# History files
+*_history
+.lesshst
+.viminfo
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Neovim specific
+nvim/lazy-lock.json
+nvim/.netrwhist
+nvim/plugin/packer_compiled.lua
+
+# Auth tokens and sensitive data
+*token*
+*auth*
+*.pem
+*.key
+
+# Node modules (if any)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
