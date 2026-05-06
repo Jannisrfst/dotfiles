@@ -1,0 +1,42 @@
+# Ghostty Terminal Configuration
+# Fix for character spacing issues
+
+# Primary font - use a proper monospace font
+font-family = "Hack Nerd Font Mono"
+font-size = 14
+
+# Font fallback chain - ensure consistent spacing across all variants
+font-family-bold = "Hack Nerd Font Mono"
+font-family-italic = "Hack Nerd Font Mono"
+font-family-bold-italic = "Hack Nerd Font Mono"
+
+# Disable font synthesis that might cause spacing issues
+font-synthetic-bold = false
+font-synthetic-italic = false
+
+# Character spacing adjustments - fine-tune if needed
+adjust-cell-width = 0
+adjust-cell-height = 0
+
+# Font rendering settings to fix spacing issues
+font-feature = []
+font-variation = []
+
+# Ensure proper Unicode handling
+unicode-width-method = "wcswidth"
+
+# Font fallback settings to prevent conflicts
+font-family-fallback = [
+    "Hack Nerd Font Mono",
+    "SF Mono",
+    "Monaco",
+    "Menlo"
+]
+
+# Theme and appearance
+theme = "default"
+background-opacity = 1.0
+
+# Window settings
+window-padding-x = 4
+window-padding-y = 4
